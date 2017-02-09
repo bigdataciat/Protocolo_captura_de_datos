@@ -1,4 +1,4 @@
-# Protocolo_captura_de_datos
+# Protocolo captura de datos
 
 En el presente documento se muestra información relevante para: la colecta, consolidación y almacenamiento de información útil en agricultura destinada a utilizarse como insumo para tomar decisiones.
 
